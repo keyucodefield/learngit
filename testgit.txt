@@ -3,3 +3,4 @@ i am very happy
 now, i want to do something bad
 git has a mutable index called stage
 Creating a new branch called dev
+but i think it is not a good idea
